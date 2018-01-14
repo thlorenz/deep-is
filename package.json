@@ -28,6 +28,9 @@
     "email": "thlorenz@gmx.de",
     "url": "http://thlorenz.com"
   },
+  "files": [
+    "index.js"
+  ],
   "license": {
     "type": "MIT",
     "url": "https://github.com/thlorenz/deep-is/blob/master/LICENSE"
